@@ -1,5 +1,4 @@
 ### dns.malw.link: hosts file
-# Последнее обновление: 2 августа 2025
 # Дополнение к zapret:
 157.240.245.174 instagram.com
 157.240.245.174 www.instagram.com
@@ -46,6 +45,22 @@
 204.12.192.222 notebooklm.google.com
 204.12.192.222 jules.google.com
 204.12.192.222 stitch.withgoogle.com
+
+# YouTube:
+204.12.192.222 youtube.com
+204.12.192.222 www.youtube.com
+204.12.192.222 m.youtube.com
+204.12.192.222 youtu.be
+204.12.192.222 music.youtube.com
+204.12.192.222 tv.youtube.com
+204.12.192.222 studio.youtube.com
+204.12.192.222 accounts.youtube.com
+204.12.192.222 ytimg.com
+204.12.192.222 i.ytimg.com
+204.12.192.222 s.ytimg.com
+204.12.192.222 ytimg.l.google.com
+204.12.192.222 youtube.googleapis.com
+204.12.192.222 youtubei.googleapis.com
 
 # Microsoft Copilot, Microsoft Rewards, Xbox, Xbox Cloud Gaming:
 204.12.192.222 copilot.microsoft.com
@@ -97,6 +112,14 @@
 204.12.192.222 grok.com
 204.12.192.222 accounts.x.ai
 204.12.192.222 assets.grok.com
+204.12.192.222 grok.x.ai
+204.12.192.222 www.grok.x.ai
+204.12.192.222 api.grok.x.ai
+204.12.192.222 console.x.ai
+204.12.192.222 docs.x.ai
+204.12.192.222 x.com
+204.12.192.222 www.x.com
+204.12.192.222 api.x.com
 
 # Tidal
 204.12.192.222 api.tidal.com
